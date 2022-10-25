@@ -5,3 +5,31 @@
     box-sizing: border-box;
 }
 
+/*general*/
+body{
+    background-color: #6e6e6e;
+    font-family: sans-serif;
+}
+
+/*header*/
+
+header{
+    background-color: white;
+    height: 120px;
+}
+
+#logo{
+    margin: 20px;
+    height: 80px;
+    margin-right: 0;
+
+}
+
+
+h1{
+    font-size:60px;
+    display: inline;
+    vertical-align: 45px;
+    font-weight: 900;
+
+}
